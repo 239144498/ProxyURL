@@ -1,0 +1,11 @@
+#EXTM3U
+# 代理频道URL示例，请自行替换
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+/proxy.m3u8?url=https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8?BR=md&region=shanghai
+#EXTINF:-1,卢村远眺
+/proxy.m3u8?url=https://gccncc.xxxx.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,九寨沟
+/proxy.m3u8?url=https://gctxyc.xxxx.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,熊大熊二
+/proxy.m3u8?url=https://newcntv.xxxx.com:8080/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
