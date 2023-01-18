@@ -20,12 +20,19 @@ from app.plugins.proxy.tools import *
 async def processing(url, data):
     for _temp in data:
         if ".ts" in _temp:
-            if not is_url(_temp):
+            if is_url(_temp):
                 yield "/file.ts?x=" + b64encode(_temp.encode("utf-8")).decode("utf-8")
             else:
                 yield "/file.ts/?x=" + b64encode(urljoin(url, _temp).encode("utf-8")).decode("utf-8")
         else:
-            yield _temp
+            if _temp.startswith("#"):
+                yield _temp
+            # 如果获取的是m3u8列表，则继续进行代理获取
+            elif is_url(_temp):
+                print(is_url(_temp),_temp)
+                yield "/proxy.m3u8?url=" + _temp
+            else:
+                yield "/proxy.m3u8?url=" + urljoin(url, _temp)
         yield "\n"
 
 
