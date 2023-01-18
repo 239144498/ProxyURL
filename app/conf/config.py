@@ -99,5 +99,8 @@ except Exception as e:
 ts_info = {}
 
 gdata = None
+
+ytb_stream = {}
+
 logger.info("配置加载完成")
 
