@@ -23,6 +23,8 @@
 代理接口演示
 ---
 
+![loading...](https://github.com/239144498/ProxyURL/raw/main/img/demo.gif)
+
 
 演示站点: 我很脆弱...请勿压测(·•᷄ࡇ•᷅ ）
 ---
