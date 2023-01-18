@@ -15,7 +15,7 @@
 
 程序介绍
 ---
-> 🚨如需使用私有服务器运行本项目，请参考部署方式[部署教程](./README.md#Python部署（Linux）)  
+> 🚨如需使用私有服务器运行本项目，请参考部署方式[部署教程](./README.md#python%E9%83%A8%E7%BD%B2linux)  
 > 
 **ProxyURL**是一个从 [Streaming-Media-Server-Pro](https://github.com/239144498/Streaming-Media-Server-Pro) 项目中抽离出的流媒体代理程序。程序新增缓存功能，多人同时观看效果更流畅。
 理论支持代理任意频道，代理后可解决**频道卡顿**问题、网页播放的**跨域**问题、**封锁地区**问题等等。更多使用方式等你去发现。
