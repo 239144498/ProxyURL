@@ -23,7 +23,7 @@
 代理接口演示
 ---
 _loading..._  
-![loading...](https://github.com/239144498/ProxyURL/raw/main/img/demo.gif)
+![loading...](https://ik.imagekit.io/naihe/github/demo.gif)
 
 
 演示站点: 我很脆弱...请勿压测(·•᷄ࡇ•᷅ ）
@@ -87,7 +87,7 @@ Python部署（Linux）
 ---
 > 💡提示：最好将本项目部署至美国地区的服务器，否则可能会出现奇怪的BUG。
 
-推荐大家使用[Digitalocean](https://www.digitalocean.com/?refcode=b71d602787d2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)的服务器，主要是因为免费。
+推荐大家使用[Digitalocean](https://www.digitalocean.com/?refcode=b71d602787d2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)的服务器，主要是因为**免费**。
 
 <a href="https://www.digitalocean.com/?refcode=b71d602787d2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
