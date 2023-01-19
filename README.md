@@ -22,8 +22,8 @@
 
 代理接口演示
 ---
-_loading..._  
-[loading...](https://ik.imagekit.io/naihe/github/demo.gif)
+_loading..._   
+![loading...](https://ik.imagekit.io/naihe/github/demo.gif)
 
 
 演示站点: 我很脆弱...请勿压测(·•᷄ࡇ•᷅ ）
