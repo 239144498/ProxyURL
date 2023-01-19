@@ -8,7 +8,7 @@
 
 </div>
 
-- 程序使用教程已发布在`微信公众号【pqhero】`，可打开微信访问：[https://0a.fit/obLUQ](https://0a.fit/obLUQ)，或者扫码查看
+- 程序使用教程已发布在`微信公众号【pqhero】回复【使用教程】`，可打开微信访问：[https://0a.fit/obLUQ](https://0a.fit/obLUQ)，或者扫码查看
 
 <a href="https://ik.imagekit.io/naihe/gzh/qrcode.png"><img src="https://ik.imagekit.io/naihe/gzh/qrcode.png" alt="qrcode.png" border="0" width="220px" height="220px" /></a>
 
