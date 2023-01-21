@@ -28,7 +28,7 @@ _[Click to view](https://ik.imagekit.io/naihe/github/demo.gif)_
 
 演示站点: 我很脆弱...请勿压测(·•᷄ࡇ•᷅ ）
 ---
-API Document: https://proxy.naihe.me/docs
+API Document: https://proxy.naihe.me:8080/docs
  为防止滥用，本接口已经加入了鉴权机制。  
 **未来将添加代理4k频道接口**
 
