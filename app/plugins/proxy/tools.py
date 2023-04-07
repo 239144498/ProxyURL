@@ -52,9 +52,9 @@ def md5(s):
 def is_url(url):
     regex = re.compile(config.url_regex)
     if regex.match(url):
-        return False
-    else:
         return True
+    else:
+        return False
 
 
 def parse(url):
